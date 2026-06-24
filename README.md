@@ -8,12 +8,18 @@ ParkShelf for Windows. The application source code is private.
 
 ## Download
 
-- **Latest release:** https://github.com/sathinator-afk/ParkShelf-Windows/releases/latest
-- `ParkShelf-win-x64.zip` - most PCs (Intel / AMD 64-bit)
-- `ParkShelf-win-arm64.zip` - Windows on Arm
+**Installer (recommended)** - one file, installs and adds a Start-menu shortcut:
 
-Requires Windows 10 1809 or newer. Unzip anywhere and run `ParkShelf.exe`. On
-first run, if SmartScreen warns about a new publisher, choose **More info -> Run anyway**.
+- **x64** (most PCs): [ParkShelf-Setup-x64.exe](https://github.com/sathinator-afk/ParkShelf-Windows/releases/latest/download/ParkShelf-Setup-x64.exe)
+- **Arm**: [ParkShelf-Setup-arm64.exe](https://github.com/sathinator-afk/ParkShelf-Windows/releases/latest/download/ParkShelf-Setup-arm64.exe)
+
+**Portable (no install)** - unzip anywhere and run `ParkShelf.exe`:
+
+- **x64**: [ParkShelf-win-x64.zip](https://github.com/sathinator-afk/ParkShelf-Windows/releases/latest/download/ParkShelf-win-x64.zip)
+- **Arm**: [ParkShelf-win-arm64.zip](https://github.com/sathinator-afk/ParkShelf-Windows/releases/latest/download/ParkShelf-win-arm64.zip)
+
+Requires Windows 10 1809 or newer. On first run, if SmartScreen warns about a new
+publisher, choose **More info -> Run anyway**.
 
 ## Website
 
@@ -23,5 +29,5 @@ https://www.parkshelf.com
 
 © 2026 Sanjiv Sathiah. All rights reserved.
 
-ParkShelf is proprietary software. The release binaries are provided for end-user
-download only; no license is granted to copy, modify, or redistribute them.
+ParkShelf is proprietary software. The release downloads are provided for end-user
+use only; no license is granted to copy, modify, or redistribute them.
